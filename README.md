@@ -12,4 +12,4 @@ In this unit, I learned how to:
 This project includes the agent implementation, example tools, and all required configuration files.
 
 For more information about the full course, visit the Hugging Face Agents Course page:  
-https://huggingface.co/agents-course :contentReference[oaicite:1]{index=1}
+https://huggingface.co/agents-course
