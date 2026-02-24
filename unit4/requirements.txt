@@ -1,0 +1,11 @@
+gradio
+requests
+pandas
+openpyxl
+anthropic
+llama-index
+llama-index-llms-anthropic
+python-dotenv
+pypdf
+huggingface_hub
+youtube-transcript-api
